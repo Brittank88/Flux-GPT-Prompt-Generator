@@ -4,6 +4,8 @@
 // @version      1.0
 // @description  Automatically constructs easily-copyable prompts to answer Flux poll questions with the help of ChatGPT.
 // @author       Brittank88
+// @downloadURL  https://raw.githubusercontent.com/Brittank88/Flux-GPT-Prompt-Generator/main/flux-gpt-prompt-generator.js
+// @updateURL    https://raw.githubusercontent.com/Brittank88/Flux-GPT-Prompt-Generator/main/flux-gpt-prompt-generator.js
 // @match        https://flux.qa/#/feeds/*?tab=polls
 // @icon         https://www.google.com/s2/favicons?sz=32&domain=flux.qa
 // @icon64       https://www.google.com/s2/favicons?sz=64&domain=flux.qa
