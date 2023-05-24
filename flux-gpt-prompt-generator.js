@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Flux GPT Prompt Generator
 // @namespace    https://skye.horse/
-// @require      https://raw.githubusercontent.com/odyniec/MonkeyConfig/master/monkeyconfig.js
-// @version      1.0.2
+// @require      https://greasyfork.org/scripts/37236-monkeyconfig/code/MonkeyConfig.user.js
+// @version      1.0.3
 // @description  Automatically constructs easily-copyable prompts to answer Flux poll questions with the help of ChatGPT.
 // @author       Brittank88
 // @license      CC0
